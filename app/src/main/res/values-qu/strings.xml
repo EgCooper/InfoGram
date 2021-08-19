@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Usuario">User1</string>
+    <string name="contraseña">Password1</string>
+    <string name="usuario">usuario</string>
+    <string name="Confirme_contraseña">Confirme contraseña</string>
+    <string name="button_text_create_account">ÙNETE</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">correo</string>
+</resources>

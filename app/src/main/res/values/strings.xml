@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="usuario">usuario</string>
+    <string name="Confirme_contraseña">Confirme contraseña</string>
+    <string name="button_text_create_account">ÙNETE</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">correo</string>
+
+</resources>
